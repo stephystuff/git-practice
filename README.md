@@ -1,5 +1,7 @@
 # git-practice
 A repository to practice our git and github skills
-A new thing. 
+A new thing.
 
-Here's something else new 
+Here's something else new.
+
+More cool stuff!
